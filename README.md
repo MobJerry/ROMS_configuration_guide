@@ -5,6 +5,10 @@
 
 该项目包含了对用户自定义算例进行ROMS一些必要的输入文件的制作教程，以及头文件选项的选择方法。持续更新。
 
+# GridBuilder使用教程
+
+该目录下包含ROMS网格生成应用GridBuilder的几个实用教程。
+
 这里，mfile是一个matlab工具包，用于生成ROMS网格所需的netcdf input文件。只需将mfile添加到自己的matlab
 路径中，然后打开roms_clm/roms_master_climatology_coawst_mw完成用户输入，运行便可得到ini、bdy和clm文件。
 mfile中有一个文件夹rutgers太大，无法直接上传；于是我将其压缩后上传，大家下载mfile到本地之后记得解压缩
