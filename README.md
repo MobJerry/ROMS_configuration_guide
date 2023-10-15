@@ -14,12 +14,14 @@
 
 该目录下包含ROMS网格生成应用GridBuilder的几个实用教程。
 - [GridBuilder使用说明](#GridBuilder使用说明)
-- [ROMs 垂直网格构建原理介绍](#ROMs 垂直网格构建原理介绍)
+- [ROMs垂直网格构建原理介绍](#ROMs垂直网格构建原理介绍)
 - [基于GridBuilder创建ROMS网格的简单教程](#基于GridBuilder创建ROMS网格的简单教程)
 
   ### GridBuilder使用说明
 
-  哈哈哈
+  该文档来自https://austides.com/downloads/，是官方对GridBuilder开发的帮助文档。
+
+  ### ROMs垂直网格构建原理介绍
 
 ## mfile
 
