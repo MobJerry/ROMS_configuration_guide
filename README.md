@@ -19,7 +19,7 @@
 
   ### GridBuilder使用说明
 
-  该文档来自https://austides.com/downloads/，是官方对GridBuilder开发的帮助文档。
+  该文档来自[官方下载地址](https://austides.com/downloads)，是官方对GridBuilder开发的帮助文档。
 
   ### ROMs垂直网格构建原理介绍
 
